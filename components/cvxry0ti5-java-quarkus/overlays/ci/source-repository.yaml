@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cvxry0ti5-java-quarkus-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/cvxry0ti5-java-quarkus
